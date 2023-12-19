@@ -1,0 +1,8 @@
+.qustion-main{
+   width:100% ;
+   height: 100vh; 
+}
+.options{
+    display: flex;
+    flex-direction: column;
+}

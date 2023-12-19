@@ -1,0 +1,108 @@
+[
+    {
+        "question": "Which of the following spacecraft never touched the moon?",
+        "correct_answer": "Mariner 4",
+        "answers": [
+           " Mariner 4",
+            "Apollo 11",
+            "Luna 2",
+            "SMART-1"
+          ]
+    },
+    {
+      "question": "What is the atomic number of the element Strontium?",
+        "correct_answer": "38",
+       "answers": [
+          "73",
+          "47",
+          "38",
+          "11"
+        ]
+      },
+      {
+  
+        "question": "Au on the Periodic Table refers to which element?",
+        "correct_answer": "Gold",
+        "answers": [
+          "Silver",
+          "Oxygen",
+          "Gold",
+          "Nickel"
+        ]
+      },
+      {
+
+        "question": "Along with Oxygen, which element is primarily responsible for the sky appearing blue?",
+        "correct_answer": "Nitrogen",
+        "answers": [
+            "Nitrogen",
+            "Helium",
+          "Carbon",
+          "Hydrogen"
+        ]
+      },
+      {
+    
+        "question": "Which element has the atomic number of 7?",
+        "correct_answer": "Nitrogen",
+        "answers": [
+          "Oxygen",
+          "Hydrogen",
+          "Neon",
+          "Nitrogen"
+        ]
+      },
+      {
+     
+        "question": "About how old is Earth?",
+        "correct_answer": "4.5 Billion Years",
+        "answers": [
+          "3.5 Billion Years",
+          "4.5 Billion Years",
+          "2.5 Billion Years",
+          "5.5 Billion Years"
+        ]
+      },
+      {
+      
+        "question": "What do you study if you are studying entomology?",
+        "correct_answer": "Insects",
+        "answers": [
+          "Humans",
+          "the Brain",
+          "Insects",
+          "Fish"
+        ]
+      },
+      {
+      "question": "What are human nails made of?",
+        "correct_answer": "Keratin",
+        "answers": [
+          "Bone",
+          "Chitin",
+          "Calcium",
+          "Keratin"
+        ]
+      },
+      {
+       
+        "question": "Which planet did the &quot;Viking 1&quot; spacecraft send surface images of, starting in 1976?",
+        "correct_answer": "Mars",
+       "answers": [
+        "Mars",
+        "Saturn",
+          "Jupiter",
+          "Venus"
+        ]
+      },
+      {
+        "question": "Where did the Great Storm of 1987 make landfall at, first?",
+        "correct_answer": "Cornwall",
+        "answers": [
+          "Surrey",
+          "Wales",
+          "Cornwall",
+          "The Midlands"
+        ]
+      }
+]
